@@ -56,4 +56,3 @@ public class MovieItem {
         this.count = count;
     }
 }
-//проверка actions
